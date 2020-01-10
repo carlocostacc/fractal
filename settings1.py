@@ -1,0 +1,12 @@
+class setting:
+    windowX = 1000
+    windowY = 400
+    screensize = (windowX, windowY)
+    BLACK = (0, 0, 0)
+    WHITE = (255, 255, 255)
+    BLUE = (0, 0, 255)
+    GREEN = (0, 255, 0)
+    RED = (255, 0, 0)
+    actuallvl = 0
+    fl = 20
+
